@@ -43,7 +43,6 @@
 ### Work experience 🏢
 
 <div>
-![logo2]()
 
 <img align="right" width="88" src="https://github.com/user-attachments/assets/16a7de86-bf42-4840-857a-9f4f716eb7b1" />
 
