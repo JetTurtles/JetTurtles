@@ -1,16 +1,54 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**coderaji798/coderaji798** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
 
-Here are some ideas to get you started:
+<div>
+<!-- 动态打字效果(https://git.io/typing-svg)  -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F780F7&width=435&lines=I%60m+CoderAji">
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<!-- 个人图片  -->
+<img src="https://avatars.githubusercontent.com/u/142096678?v=4" height="260px" alt="Avatar" style="border-radius: 130px">
+<p></p>
+  <div>
+    <a href="https://github.com/coderaji798"><img src="https://img.shields.io/badge/GitHub-coderaji798-blue" /></a>
+    <img src="https://komarev.com/ghpvc/?username=coderaji798&label=Views&color=orange&style=flat"/>&emsp;
+  </div>
+<div>
+
+</div>
+
+![Java](https://img.shields.io/badge/Java-E6E6FA?logo=openjdk&logoColor=000000&style=flat)
+![Spring Badge](https://img.shields.io/badge/Spring-6DB33F?logo=spring&logoColor=fff&style=flat)
+![Spring Badge](https://img.shields.io/badge/SpringBoot-6DB33F?logo=Springboot&logoColor=fff&style=flat)
+![Spring Badge](https://img.shields.io/badge/dubbo-DDA0DD?logo=Alibaba.com&logoColor=fff&style=flat)
+![Spring Badge](https://img.shields.io/badge/Mybatis-A52A2A?logo=mybatis&logoColor=fff&style=flat)
+![Spring Badge](https://img.shields.io/badge/MySQL-DCDCDC?logo=mysql&logoColor=0000CD&style=flat)
+![MongoDB Badge](https://img.shields.io/badge/Redis-FF0000?logo=redis&logoColor=fff&style=flat)
+![MongoDB Badge](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=fff&style=flat)
+
+![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=flat)
+![CSS3 Badge](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff&style=flat)
+![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=flat)
+![Vue.js Badge](https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=fff&style=flat)
+
+</div>
+
+### About me 👨‍💻
+
+<p>&emsp;&emsp;I`m a Java development engineer from Nanjing, China</p>
+<p>&emsp;&emsp;I enjoy computer programming and I hope to become an excellent developer</p>
+
+### Work experience 🏢
+
+<div>
+
+
+<img align="right" width="88" src="	https://extra-web.zczy56.com/statics/images/new_images/logo1.png" />
+
+- [中储智运](https://zczy.zhiye.com/) &emsp;&emsp;&emsp;&emsp;  2023-06 —— Now
+
+    - job : Java Developer
+
+</div>
