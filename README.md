@@ -20,18 +20,18 @@
 </div>
 
 ![Java](https://img.shields.io/badge/Java-E6E6FA?logo=openjdk&logoColor=000000&style=flat)
-![Spring Badge](https://img.shields.io/badge/Spring-6DB33F?logo=spring&logoColor=fff&style=flat)
-![Spring Badge](https://img.shields.io/badge/SpringBoot-6DB33F?logo=Springboot&logoColor=fff&style=flat)
-![Spring Badge](https://img.shields.io/badge/dubbo-DDA0DD?logo=Alibaba.com&logoColor=fff&style=flat)
-![Spring Badge](https://img.shields.io/badge/Mybatis-A52A2A?logo=mybatis&logoColor=fff&style=flat)
-![Spring Badge](https://img.shields.io/badge/MySQL-DCDCDC?logo=mysql&logoColor=0000CD&style=flat)
-![MongoDB Badge](https://img.shields.io/badge/Redis-FF0000?logo=redis&logoColor=fff&style=flat)
-![MongoDB Badge](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=fff&style=flat)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?logo=spring&logoColor=fff&style=flat)
+![SpringBoot](https://img.shields.io/badge/SpringBoot-6DB33F?logo=Springboot&logoColor=fff&style=flat)
+![Dubbo](https://img.shields.io/badge/dubbo-DDA0DD?logo=Alibaba.com&logoColor=fff&style=flat)
+![Mybatis](https://img.shields.io/badge/Mybatis-A52A2A?logo=mybatis&logoColor=fff&style=flat)
+![MySQL](https://img.shields.io/badge/MySQL-DCDCDC?logo=mysql&logoColor=0000CD&style=flat)
+![Redis](https://img.shields.io/badge/Redis-FF0000?logo=redis&logoColor=fff&style=flat)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=fff&style=flat)
 
-![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=flat)
-![CSS3 Badge](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff&style=flat)
-![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=flat)
-![Vue.js Badge](https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=fff&style=flat)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=flat)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff&style=flat)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=flat)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=fff&style=flat)
 
 </div>
 
