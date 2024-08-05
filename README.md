@@ -9,7 +9,7 @@
 
 
 <!-- 个人图片  -->
-<img src="https://avatars.githubusercontent.com/u/142096678?v=4" height="260px" alt="Avatar" style="border-radius: 130px">
+<img src="https://github.com/user-attachments/assets/b74dd629-e6f3-4764-bf26-1ef06ee4e1a7" height="260px" >
 <p></p>
   <div>
     <a href="https://github.com/coderaji798"><img src="https://img.shields.io/badge/GitHub-coderaji798-blue" /></a>
@@ -43,9 +43,9 @@
 ### Work experience 🏢
 
 <div>
+![logo2]()
 
-
-<img align="right" width="88" src="	https://extra-web.zczy56.com/statics/images/new_images/logo1.png" />
+<img align="right" width="88" src="https://github.com/user-attachments/assets/16a7de86-bf42-4840-857a-9f4f716eb7b1" />
 
 - [中储智运](https://zczy.zhiye.com/) &emsp;&emsp;&emsp;&emsp;  2023-06 —— Now
 
