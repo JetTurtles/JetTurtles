@@ -34,11 +34,17 @@
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=fff&style=flat)
 
 </div>
+<table>
+<tr><td>
 
 ### About me 👨‍💻
 
 <p>&emsp;&emsp;I`m a Java development engineer from Nanjing, China</p>
 <p>&emsp;&emsp;I enjoy computer programming and I hope to become an excellent developer</p>
+
+</td></tr>
+
+<tr><td>
 
 ### Work experience 🏢
 
@@ -49,5 +55,6 @@
 - [中储智运](https://zczy.zhiye.com/) &emsp;&emsp;&emsp;&emsp;  2023-06 —— Now
 
     - job : Java Developer
-
+</td></tr>
+</table>
 </div>
