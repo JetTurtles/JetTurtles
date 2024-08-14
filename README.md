@@ -12,8 +12,8 @@
 <img src="https://github.com/user-attachments/assets/b74dd629-e6f3-4764-bf26-1ef06ee4e1a7" height="260px" >
 <p></p>
   <div>
-    <a href="https://github.com/coderaji798"><img src="https://img.shields.io/badge/GitHub-coderaji798-blue" /></a>
-    <img src="https://komarev.com/ghpvc/?username=coderaji798&label=Views&color=orange&style=flat"/>&emsp;
+    <!-- <a href="https://github.com/coderaji798"><img src="https://img.shields.io/badge/GitHub-coderaji798-blue" /></a>
+    <img src="https://komarev.com/ghpvc/?username=coderaji798&label=Views&color=orange&style=flat"/>&emsp;  -->
   </div>
 <div>
 
