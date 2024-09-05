@@ -25,6 +25,10 @@ export default defineUserConfig({
                         {
                             text: 'Windows安装Linux环境',
                             link: 'install-ubuntu.md'
+                        },
+                        {
+                            text: 'Linux常用命令',
+                            link: 'common-commands.md'
                         }
                     ],
                 }
