@@ -30,14 +30,25 @@ export default defineUserConfig({
                             text: 'Linux常用命令',
                             link: 'common-commands.md'
                         }
-                    ],
+                    ]
+                }, {
+                    text: 'Redis学习',
+                    prefix: '/article002/',
+                    link: '/article002/',
+                    children: [
+                        {
+                            text: 'Redis基础知识',
+                            link: 'redis-basics.md'
+                        }
+                    ]
                 }
             ]
         }
     ),
     plugins: [
         searchPlugin({
-            // 配置项
+            // 排除首页
+            isSearchable: (page) => page.path !== '/',
         }),
     ],
 })
