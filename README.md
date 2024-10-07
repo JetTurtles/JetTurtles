@@ -45,16 +45,3 @@
 <p>&emsp;&emsp;I enjoy computer programming and I hope to become an excellent developer</p>
 
 ---
-
-### Work experience 🏢
-
-<div>
-
-<img align="right" width="88" src="https://github.com/user-attachments/assets/16a7de86-bf42-4840-857a-9f4f716eb7b1" />
-
-- [中储智运](https://zczy.zhiye.com/) &emsp;&emsp;&emsp;&emsp;  2023-06 —— Now
-
-    - job : Java Developer
-
-
-</div>
